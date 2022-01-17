@@ -1,3 +1,15 @@
-.navbar {
-  font-weight: bold;
+body {
+  height: 3000px;
+}
+
+.carousel-inner {
+  height: 650px;
+}
+
+.carousel-inner img {
+  background-size: cover;
+}
+
+.carousel-inner .row {
+  margin-top: -600px;
 }
